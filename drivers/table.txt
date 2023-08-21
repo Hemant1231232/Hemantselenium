@@ -1,0 +1,36 @@
+<html>
+<body>
+<table border="2" id="t1">
+<tr>
+<td>SL.NO</td>
+<td>MOVIE NAME</td>
+<td>COLLECTION</td>
+<td>RATINGS</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jailer</td>
+<td>10cr</td>
+<td>****</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Toby</td>
+<td>45cr</td>
+<td>*****</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Gadar</td>
+<td>25cr</td>
+<td>**</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Avtar</td>
+<td>5cr</td>
+<td>**</td>
+</tr>
+</table>
+</body>
+</html>
